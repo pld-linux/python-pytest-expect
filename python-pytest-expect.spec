@@ -7,7 +7,7 @@ Summary:	py.test plugin to store test expectations and mark tests based on them
 Summary(pl.UTF-8):	Wtyczka py.test do zapisywania oczekiwań testów oraz oznaczania testów w oparciu o nie
 Name:		python-pytest-expect
 Version:	1.1.0
-Release:	6
+Release:	7
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/pytest-expect/
